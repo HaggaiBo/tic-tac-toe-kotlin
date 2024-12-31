@@ -13,11 +13,6 @@ A simple Tic-Tac-Toe game built using Kotlin and Android Studio. This project de
 
 ---
 
-## Screenshots
-![Game Board Screenshot](path/to/screenshot.png) *(Add a path to your screenshot if available)*
-
----
-
 ## Technologies Used
 - **Kotlin**: Programming language.
 - **Android View Binding**: For efficient UI handling.
